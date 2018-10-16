@@ -1,0 +1,44 @@
+{
+  "short_name": "Prayerbook",
+  "name": "PrayerBook",
+  "description": "description",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "images/icon-32.jpg",
+      "sizes": "32x32",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/icon-48.jpg",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    }
+    ,
+    {
+      "src": "images/icon-96.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/icon-144.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "background_color": "#1565c0",
+  "theme_color": "#1565c0",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any"
+}
